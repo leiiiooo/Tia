@@ -90,7 +90,7 @@
 ****** 墓碑十字线（顶部，表示下跌）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/8.jpg{scale=0.4}>
 ****** 北方十字线（通常机构出货）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/9.jpg{scale=0.4}>
 ****** 南方十字线（散户购买，不太重要）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/10.jpg{scale=0.4}>
-***** 强势反转的单根K线：捉腰带线（弱）
+***** 强势反转的单根K线：捉腰带线
 ****** 看涨捉腰带线（跳空，低开直接往上收，比特币不常见）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/11.jpg{scale=0.4}>
 ****** 看跌捉腰带线（顶部开盘，减仓减仓，比特币不常见）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/12.jpg{scale=0.4}>
 ***** 多根K线的组合（强）
@@ -107,7 +107,7 @@
 ****** 看涨十字孕线（反转概率更大一点）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/22.jpg{scale=0.4}>
 ***** 星线（比特币不太可能出现，严格讲是需要有一个跳空的行为存在）（强）
 ****** 启明星形态\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/23.jpg{scale=0.4}>
-****** 黄昏星形态（及时没有跳空也需要注意了，当你用更小的时间周期看的时候就是一个头肩顶）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/24.jpg{scale=0.4}>
+****** 黄昏星形态（及时没有跳空也需要注意了，当你用更小的时\n间周期看的时候就是一个头肩顶）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/24.jpg{scale=0.4}>
 ****** 十字启明星形态\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/25.jpg{scale=0.4}>
 ****** 十字黄昏星形态\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/26.jpg{scale=0.4}>
 ***** 平头（弱）
@@ -131,8 +131,17 @@
 ****** 下降窗口\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/31.jpg{scale=0.4}>
 **** 持续形态
 ***** 窗口
+****** 向上的窗口\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7-1.jpg{scale=0.4}>
+****** 向下的窗口\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7-2.jpg{scale=0.4}>
 ***** 向上跳空和向下跳空并列阴阳线形态
-***** 上升三法和下降三法
+****** 向上跳空阴阳线 （其中一根白色蜡烛线和一根黑色蜡烛\n线共同形成了一个向上的窗口。\n这根黑色蜡烛线的开市价位于前一个白色实体之内，\n收市价位于前一个白色实体之下。\n在这样的情况下，这根黑色蜡烛线的收市价，就构成了买卖双方争夺的要点。\n如果市场以收市价向下突破到该窗口之下，\n那么这个向上跳空并列阴阳线形态的看涨意义就不再成立了）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7-10.jpg{scale=0.4}>
+****** 向下跳空阴阳线\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7-11.jpg{scale=0.4}>
+****** 高价位跳空突破形态\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7-13\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7-14.jpg{scale=0.4}>
+****** 上升趋势中的向上跳空并列白色蜡烛线形态\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7-18.jpg{scale=0.4}>
+****** 下降趋势中的向下跳空并列白色蜡烛线形态\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7-19.jpg{scale=0.4}>
+***** 上升三法（上升三蜡烛线法）和下降三法（下降三蜡烛线法）形态
+****** 上升三法形态（小实体可以是任意颜色，范围包含影线，\n一定要在第一根蜡烛之内，一定是小实体）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7-21.jpg{scale=0.4}>
+****** 下降三法形态（小实体可以是任意颜色，范围包含影线，\n一定要在第一根蜡烛之内，一定是小实体）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7-22.jpg{scale=0.4}>
 ***** 分手线
 **** 化繁就简、重中之重
 ***** 关注实体大小
