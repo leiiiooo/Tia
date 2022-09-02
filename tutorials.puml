@@ -85,11 +85,13 @@
 ****** 流星线（顶部非常危险信号）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/5.jpg{scale=0.4}>
 ****** 倒锤子线（底部反转信号，需要其他信号验证）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/%E5%80%92%E9%94%A4%E5%AD%90%E7%BA%BF.jpg{scale=0.4}>
 ***** 危险的单根K线：十字线
-****** 十字线（多空均衡，原来的趋势告一段落）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/6.jpg{scale=0.4}>
+****** 长腿十字线（多空均衡，原来的趋势告一段落\n底部十字线或者箱体内部的十字线一般不够成反转，\n但是可以用来验证价格区间、价格支撑和阻力）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/6.jpg{scale=0.4}>
 ****** 蜻蜓十字线（阶段性底部信号或者狂热顶部）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7.jpg{scale=0.4}>
 ****** 墓碑十字线（顶部，表示下跌）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/8.jpg{scale=0.4}>
 ****** 北方十字线（通常机构出货）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/9.jpg{scale=0.4}>
 ****** 南方十字线（散户购买，不太重要）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/10.jpg{scale=0.4}>
+***** 三星形态
+****** 三星顶部形态和三星底部形态 \n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/8-18.jpg{scale=0.4}>
 ***** 强势反转的单根K线：捉腰带线
 ****** 看涨捉腰带线（跳空，低开直接往上收，比特币不常见）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/11.jpg{scale=0.4}>
 ****** 看跌捉腰带线（顶部开盘，减仓减仓，比特币不常见）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/12.jpg{scale=0.4}>
@@ -144,6 +146,7 @@
 ****** 上升三法形态（小实体可以是任意颜色，范围包含影线，\n一定要在第一根蜡烛之内，一定是小实体）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7-21.jpg{scale=0.4}>
 ****** 下降三法形态（小实体可以是任意颜色，范围包含影线，\n一定要在第一根蜡烛之内，一定是小实体）\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7-22.jpg{scale=0.4}>
 ***** 分手线
+****** 看涨和看跌分手线\n\n<img::https://cdn.jsdelivr.net/gh/leiiiooo/Doccod/images/tia/basic/candlestick/7-31.jpg{scale=0.4}>
 **** 化繁就简、重中之重
 ***** 关注实体大小
 ****** 实体逐渐变小，这说明之前的趋势逐渐失去动力
